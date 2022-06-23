@@ -1,3 +1,1 @@
-# mainnet
-
 # Antora Network
