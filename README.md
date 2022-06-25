@@ -45,7 +45,7 @@ git clone https://github.com/IDEP-network/Antora.git
 
 - Add permissions to the binary
 ```
-sudo chmod +x /Antora/iond
+sudo chmod +x Antora/iond
 ```
 - Move/Copy the binary to /usr/local/bin/
 ```
