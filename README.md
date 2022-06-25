@@ -71,7 +71,7 @@ go: go version go1.18.1 linux/amd64
 
 ### Full-Node Initialization
 ```
-iond init <moniker> --chain-id Antora-Network
+iond init <moniker> --chain-id Antora
 iond keys add <accountname>
 ```
 - Save the mnemonic
@@ -140,7 +140,7 @@ iond tx staking create-validator \
     --min-self-delegation 1 \
     --moniker <YourMoniker> \
     --pubkey $(iond tendermint show-validator) \
-    --chain-id Antora-Network
+    --chain-id Antora
 ```
 
 ### Start your node
@@ -153,5 +153,5 @@ iond start
 ### FAQ
 #### Example of a command to create a Validator
 ```
-iond tx staking create-validator --amount 15000000000000idep --from idep1d2nqcwf9zz9fx7xlesyt0gc3utfxe2mk6nfwey --pubkey idepvalconspub1zcjduepqztw5yzm5wj0yc600aaemxlmda5488jv9hycxfnta3w7vz9jgpawqc9qnhs --commission-rate 0.01 --commission-max-rate 0.05 --commission-max-change-rate 0.005 --min-self-delegation 1 --chain-id Antora-Network
+iond tx staking create-validator --amount 15000000000000idep --from idep1d2nqcwf9zz9fx7xlesyt0gc3utfxe2mk6nfwey --pubkey idepvalconspub1zcjduepqztw5yzm5wj0yc600aaemxlmda5488jv9hycxfnta3w7vz9jgpawqc9qnhs --commission-rate 0.01 --commission-max-rate 0.05 --commission-max-change-rate 0.005 --min-self-delegation 1 --chain-id Antora
 ```
