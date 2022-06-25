@@ -136,7 +136,12 @@ iond tx staking create-validator \
     --chain-id Antora-Network
 ```
 
+### Start your node
+Now that everything is setup and ready to go, you can start your node.
 
+```
+iond start
+```
 
 ### FAQ
 #### Example of a command to create a Validator
