@@ -19,16 +19,6 @@ sha256sum ~/.iond/config/genesis.json
 ....
 ```
 
-### iond version
-
-```bash
-$ iond version --long
-name: Ion
-server_name: iond
-version: .
-commit: .
-```
-
 ### Seed node
 
 [Full seed nodes list](/antora-1/seeds.txt).
@@ -60,6 +50,18 @@ cp Antora/iond /usr/local/bin/
 ```
 iond -h
 ```
+
+### Verify Your Installation
+Verify that everything is OK. If you get something like the following, you've successfully installed iond on your system.
+
+```bash
+$ iond version --long
+name: Ion
+server_name: iond
+version: .
+commit: .
+```
+
 ### Full-Node Initialization
 ```
 iond init <moniker> --chain-id Antora-Network
