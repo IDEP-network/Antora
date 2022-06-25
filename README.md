@@ -92,7 +92,7 @@ sed -i.bak -e "s/^external_address = \"\"/external_address = \"$external_address
 cd ~/.ion/config/
 
 rm genesis.json
-**************
+wget https://raw.githubusercontent.com/IDEP-network/Antora/main/genesis.json
 ```
 
 ### Setup Service and start the node
