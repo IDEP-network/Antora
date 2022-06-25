@@ -2,8 +2,14 @@
 
 <h1 align="center">Mainnet Antora</h1>
 
-_Planned Start Time: JUNE 24 2022 at 6PM UTC._
+_Planned Start Time: JUNE 25 2022 at 6PM UTC._
 
+
+### Minimum hardware requirements
+
+- 8GB RAM
+- 500GB of disk space
+- 4v cpu amd64 CPU
 
 
 ### [Genesis File](/antora-1/genesis.json):
