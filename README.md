@@ -64,8 +64,9 @@ Verify that everything is OK. If you get something like the following, you've su
 $ iond version --long
 name: Ion
 server_name: iond
-version: .
-commit: .
+version: v1.0.0
+commit: ""
+go: go version go1.18.1 linux/amd64
 ```
 
 ### Full-Node Initialization
