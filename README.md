@@ -4,6 +4,9 @@
 
 _Planned Start Time: JUNE 25 2022 at 6PM UTC._
 
+### Block Explorer
+
+https://chadscan.com/
 
 ### Minimum hardware requirements
 
