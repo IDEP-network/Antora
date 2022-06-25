@@ -33,6 +33,11 @@ sha256sum ~/.iond/config/genesis.json
 6e52997400aaa1b3d2155e45cf2559bf7a4c5e76@164.92.161.91:26656
 ```
 
+### Persistent Peers
+```
+8ffc74dbcd5ab32bc89e058ec53060d5762f88b5@178.63.100.102:26656
+```
+
 ## Setup
 
 **Prerequisites:** Make sure to have [Golang >=1.17](https://golang.org/).
