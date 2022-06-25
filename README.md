@@ -15,7 +15,7 @@ _Planned Start Time: JUNE 25 2022 at 6PM UTC._
 ### [Genesis File](/antora-1/genesis.json):
 
 ```bash
-   .
+https://github.com/IDEP-network/Antora/blob/main/genesis.json
 ```
 
 ### Genesis sha256
