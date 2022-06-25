@@ -35,7 +35,9 @@ sha256sum ~/.iond/config/genesis.json
 
 ### Persistent Peers
 ```
+f14e7dd78fd2462541f59eac08a8107fca89c2b3@75.119.159.159:26641
 8ffc74dbcd5ab32bc89e058ec53060d5762f88b5@178.63.100.102:26656
+
 ```
 
 ## Setup
