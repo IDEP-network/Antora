@@ -5,9 +5,9 @@
 Path for validators to join our network via a IDEP Foundation grant will be revealed next week!
 Enjoy the weekend!
 
-## Original launch docs
+# Original launch docs
 
-Note these are left for historical purposes.
+## Note these are left for historical purposes.
 
 _Planned Start Time: JUNE 25 2022 at 6PM UTC._
 
