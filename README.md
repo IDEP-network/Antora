@@ -30,7 +30,7 @@ sha256sum ~/.iond/config/genesis.json
 [Full seed nodes list](/antora-1/seeds.txt).
 
 ```
-.
+6e52997400aaa1b3d2155e45cf2559bf7a4c5e76@164.92.161.91:26656
 ```
 
 ## Setup
