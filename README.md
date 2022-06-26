@@ -2,8 +2,28 @@
 
 <h1 align="center">Mainnet Antora</h1>
 
-Path for validators to join our network via a IDEP Foundation grant will be revealed next week!
-Enjoy the weekend!
+# Submit request for initial validator funding
+
+- Fork this repo into your Github account
+
+- Clone your repo using:
+
+  ```bash
+  git clone https://github.com/<YOUR-GITHUB-USERNAME>/Antora
+  ```
+
+- Create a new Markdown file in the `Grants` Directory
+
+  ```bash
+  cd Antora/Grants
+  ```
+- Name the Markdown file with your GITHUB username
+- Include in the file your IDEP wallet address and a brief description why you should get a grant.
+
+- Commit and push to your repo
+- Create a PR onto https://github.com/IDEPNetwork/Antora
+- Only PRs from individuals / groups with a history of successfully running validator nodes will be accepted. This is to ensure the network is successfully decentralized.
+
 
 # Original launch docs
 
