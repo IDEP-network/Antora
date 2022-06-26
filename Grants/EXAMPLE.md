@@ -7,5 +7,7 @@ I am very interested in running a validator on IDEP Network. I have three years 
 
 
 
-**An example of what wont work**
+**An example of what wont work**.  
+
+
 I participated in testnets please gib tokens :DDDD
