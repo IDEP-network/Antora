@@ -21,7 +21,7 @@
 - Include in the file your IDEP wallet address and a brief description why you should get a grant.
 
 - Commit and push to your repo
-- Create a PR onto https://github.com/IDEPNetwork/Antora
+- Create a PR onto https://github.com/IDEP-network/Antora
 - Only PRs from individuals / groups with a history of successfully running validator nodes will be accepted. This is to ensure the network is successfully decentralized.
 
 
