@@ -1,6 +1,6 @@
 # ShchegolevYA
 
-## IDEP wallet address (SanfordNetworkV2)
+## IDEP wallet address
 ```
 idep1c5q68pruxff997e5prpfe3xg7g238nkq9gzdh2
 ```
