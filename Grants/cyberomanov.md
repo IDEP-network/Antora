@@ -1,4 +1,4 @@
-I'm Community Lead in IDEP discord ().
+I'm Community Lead in IDEP discord.
 
 I'm https://t.me/IDEP_RU creator and owner. It's local thematic russian chat about IDEP.
 
