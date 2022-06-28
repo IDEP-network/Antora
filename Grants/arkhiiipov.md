@@ -22,7 +22,7 @@ Part of the projects.
 
 I am also a genesis artist of such projects as:
 1. Asset Mantle
-2. Omniflex
+2. Omniflix
 
 I also have the role of Artist of the Month in your project
 I was also a member of *IDEP*
