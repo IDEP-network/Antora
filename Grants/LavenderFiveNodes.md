@@ -7,8 +7,7 @@
 
 
 ## Who We Are
-
-Lavender.Fives Nodes (https://www.lavenderfive.com/) is one of the most trusted validators in the cosmos ecosystem. 
+[Lavender.Fives Nodes](https://www.lavenderfive.com/) is one of the most trusted validators in the cosmos ecosystem. 
 Our team is able to maintain near-100% uptime through a variety of resources including dedicated servers around the world, 
 multiple 24/7 alerting systems in place, and always-ready backup servers. 
 We are proud to say we serve as validators on more than 30 mainnets, and are trusted by over 10000 delegators. 
@@ -16,6 +15,16 @@ We are proud to say we serve as validators on more than 30 mainnets, and are tru
 We differentiate ourselves through our community engagement and contributions to the projects we serve. 
 This is achieved by authoring documentation for fellow validators, writing and promoting new governance proposals, 
 and helping squash code bugs before they become an issue.
+
+## A Showing of Networks
+A small selection of the networks we support include:
+- Secret Network
+- Cosmos Hub 
+- Osmosis
+- Evmos
+- Juno
+- NEAR
+- [and many more!](https://www.lavenderfive.com/)
 
 ## Our Infrastructure
 
