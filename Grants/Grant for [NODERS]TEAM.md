@@ -1,6 +1,6 @@
 Moniker: [NODERS]TEAM
 IDEP wallet address: idep1atqq3578ledvrzx90nhp2scvn3fgm7dxarx7rd
-My IDEP validator address: idepvaloper1atqq3578ledvrzx90nhp2scvn3fgm7dxm7vpu
+My IDEP validator address: idepvaloper1atqq3578ledvrzx90nhp2scvn3fgm7dxm7vpug
 
 Hello! 
 My name is SeptimA (Aleksey), I represent the NODERS project Our team is a community of professional participants in various tests. 
