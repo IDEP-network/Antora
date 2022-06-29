@@ -9,9 +9,9 @@ But he took part in various test networks. He also actively participated in the 
 Actively participated in networks (hopr_tesnet_Matterhorn,
 archway
 Asset mantle
-Automata Network,
-Celestia,
-KYVE,
+Automata Network
+Celestia
+KYVE
 Pontem
 zeitgeist
 Stratos
