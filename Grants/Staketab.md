@@ -69,3 +69,6 @@ Our infrastructure consists of hardware based on the latest AMD Ryzen / Intell a
 - Discord nickname: @Ducca | StakeTab#5707  
 - Discord channel: https://discord.com/invite/6QUayW3ykD  
 - Twitter: https://twitter.com/staketab  
+
+Idep wallet: idep1dfh2k6lfzzc9s2rvdypl8w2hlqvl8cma8x69u6  
+Idep valoper: idepvaloper1dfh2k6lfzzc9s2rvdypl8w2hlqvl8cmapms6rl  
