@@ -1,0 +1,14 @@
+Good day
+
+Participated in IDEP from the first to the last testnet iteration. 
+My moniker is Vanlee.
+
+IDEP wallet address: idep1zz5g8y74wz0elfrdye0uuml50nkgl3mnp6frv6
+
+I am currently a mainnet validator:
+
+Evmos: https://www.mintscan.io/evmos/validators/evmosvaloper1can8lfdushdmp8z9zm82dmpt6gz3r2rsxrs8gw
+
+Konstelation: https://www.mintscan.io/konstellation/validators/darcvaloper1wa5l9ghx7ff5mqq49a8e3ucwumknsfm6u0h9ld
+
+Nomic: https://app.nomic.io/ - Vanlee
