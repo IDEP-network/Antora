@@ -37,4 +37,4 @@ Twitter: https://twitter.com/Wetez_stake
 
 Medium: https://medium.com/wetez-studio
 
-Website:https://agoranodes.com
+Website:https://www.wetez.io
