@@ -8,3 +8,6 @@ I believe I can help your project as experienced validator and tech support. I l
 
 wallet: idep1tn827zxjhfzl3qtsamanw9mnr2sdcdnf4k9q8x
 valoper: idepvaloper1tn827zxjhfzl3qtsamanw9mnr2sdcdnfnt0lcr
+
+Discord: SerGo#8747
+Telegram: https:\\t.me\CrazySerGo
