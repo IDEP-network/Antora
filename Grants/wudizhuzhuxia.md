@@ -2,7 +2,6 @@ Hello!
 
 My name is zhuzhuxia
 
-Moniker: zhuzhuxia
 IDEP address: idep17kwvdnhvy2q0uw7v4heyxtetvjk22fp6xmvtt6
 
 My validation experience is more than two year, I validate in such networks as Solana、Akash、Aleo Bzz、Icp、Math and Mina, I participate in various test networks, 
